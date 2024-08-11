@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradiant{
+   background-image: linear-gradient(#ffff,#faf5f2);
+}
+
+.dborder{
+   
+  outline: 1px solid white;
+  outline-offset: -7px;
+ 
+}
+.Nbtn{
+   
+  outline: 1px solid #E5745D;
+  outline-offset: -8px;
+}
+
