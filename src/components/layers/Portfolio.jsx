@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from '../Container'
 import Heading from '../Heading'
-import Projects from '../../assets/images.png'
+import Projects from '../../assets/Images.png'
 
 const Portfolio = () => {
     return (
